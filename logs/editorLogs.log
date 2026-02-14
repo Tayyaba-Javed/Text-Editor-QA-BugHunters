@@ -21,3 +21,6 @@
 2024-12-10 21:25:40.338 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'surah falaq.txt' is: 0.009627044174443686
 2024-12-10 21:25:45.280 [AWT-EventQueue-0] INFO  pl.EditorPO - TF-IDF Score for 'quran-simple.txt' is: 0.014417461355646866
 2026-02-14 19:50:44.325 [main] ERROR pl.EditorPO - (conn=5) Access denied for user 'texteditor'@'localhost' to database 'text_editor_db'
+2026-02-14 20:20:51.203 [AWT-EventQueue-0] INFO  pl.EditorPO - File created successfully!
+2026-02-14 20:21:30.824 [AWT-EventQueue-0] INFO  pl.EditorPO - Do you want to delete the selected file?
+2026-02-14 20:21:31.775 [AWT-EventQueue-0] INFO  pl.EditorPO - File deleted successfully!
